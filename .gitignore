@@ -1,0 +1,6 @@
+**/generate
+**/dilated_conv*
+**/*.in
+**/*.sh
+**/output
+**/output_new
